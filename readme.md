@@ -8,8 +8,6 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 
 ## 🔖 Layout
 
-<img alt="" title="" src=".github/video.gif"  />
-
 Você pode baixar o layout do projeto no formato `.fig`
 
 - [Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web/duplicate).
