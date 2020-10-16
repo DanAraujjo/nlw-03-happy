@@ -1,10 +1,10 @@
 <h1 align="center">
-     <img alt="" title="" src=".github/layout.png"  width="480px"/>
+     <img alt="" title="" src=".github/happy.png"  width="480px"/>
 </h1>
 
 ## 💻 Projeto
 
-A proposta é criar uma plataforma para conectar pessoas a crianças em orfanatos.
+O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
 
 ## 🔖 Layout
 
@@ -21,9 +21,11 @@ Para abrir o arquivo no formato `.fig` em qualquer sistema operacional utilize a
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- NodeJs
-- ReactJs
-- React Native (Expo)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## :information_source: Como usar
 
@@ -62,3 +64,9 @@ $ yarn start
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+## 🧠 Desafio
+
+No link a seguir você encontra o guia no Notion referente aos desafios propostos para que você possa percorrer a milha extra e incrementar ainda mais essa aplicação. Lá também você encontra um guia mostrando todo o passo a passo de como realizar o deploy tanto do backend quanto do frontend.
+
+- [Desafio Happy 2.0](https://www.notion.so/Vers-o-2-0-do-Happy-c754db7a4d41469e8c2d00fcf75392c4)

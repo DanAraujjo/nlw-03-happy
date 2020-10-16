@@ -3,11 +3,12 @@ import { Dimensions, StyleSheet } from "react-native";
 export default StyleSheet.create({
   container: {
     flex: 1,
+    position: "relative",
   },
 
-  map: {
+  mapStyle: {
     width: Dimensions.get("window").width,
-    height: Dimensions.get("window").height,
+    height: "100%",
   },
 
   calloutContainer: {
@@ -17,6 +18,7 @@ export default StyleSheet.create({
     backgroundColor: "rgba(255, 255, 255, 0.8)",
     borderRadius: 16,
     justifyContent: "center",
+    elevation: 3,
   },
 
   calloutText: {
